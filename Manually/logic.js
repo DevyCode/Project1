@@ -1,5 +1,5 @@
 const quotes = [
-    {quote: "quote 1", author: "author 1"},
+    {quote: "You can easily judge the character of a man by how he treats those who can do nothing for him", author: "Johann von Goethe"},
     {quote: "quote 2", author: "author 2"},
     {quote: "quote 3", author: "author 3"},
     {quote: "quote 4", author: "author 4"},

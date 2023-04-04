@@ -1,0 +1,92 @@
+
+html {
+    
+    
+  }
+  body {
+    text-align: center;
+    font: 400 16px "VT323", Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    background: url("Images/Project1.png");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.container{
+    border-radius: 5%;
+    background: url("Images/quote.png");
+    background-size:cover;
+
+    position: relative;
+    left: 33%;
+    margin-top: 310px; 
+    width: 650px;  
+    height: 450px; 
+}
+
+.project_title{
+    background-color: white;
+    border-radius: 2%;
+    border-top: solid black;
+    border-bottom: solid black;
+
+    position: absolute;
+    top:5%;
+    
+
+    padding:7px 0;
+    width: 100%;
+    
+    text-align: center;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+    color:black;  
+    font-family: "Lily Script One";   
+}
+
+.quote{
+    position:absolute;
+    top: 20%;
+    left: 10%;
+    
+    font-weight: 80;
+    line-height: 1.4;
+	font-size: 1.3em;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    letter-spacing: 2px;
+
+    padding-top:25px;
+    width: 80%;
+    margin: 60px auto;   
+}
+
+blockquote:before,
+blockquote:after {
+	position: absolute;
+	color: black;
+	font-size: 5rem;
+	width: 4rem;
+	height: 6rem;
+}
+
+blockquote:before {
+	content: '“';
+	left: -2rem;
+	top: -1rem;
+}
+
+blockquote:after {
+	content: '”';
+	right: -2rem;
+	bottom: 1rem;
+}
+
+cite {
+	line-height: 3;
+	text-align: left;
+}

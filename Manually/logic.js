@@ -13,6 +13,15 @@ const quotes = [
     {quote: "We don't see things as they are, we see them as we are", author: "Anaïs Nin"},
     {quote: "Between what is said and not meant, and what is meant but not said, most love is lost", author: "Khalil Gibran"},
     {quote: "You cannot step in the same river twice", author: "Heraclitus"},
+    {quote: "It never ceases to amaze me: we all loves ourselves more than other people, but care more about their opinion than our own.", author: "Marcus Aurelius"},
+    {quote: "Most people don't want to hear the truth. They want constant reassurance that what they believe is the truth.", author: "anonymous"},
+    {quote: "Hard times create strong men. Strong men create good times. Good times create weak men. Weak men create hard times", author: "Michael Hopf"},
+    {quote: "Humans are pattern-seeking animals who will prefer even a bad theory or a conspiracy to no theory at all", author: "Christopher Hitchens"},
+    {quote: "Talk sense to a fool and he calls you foolish", author: "Euripides"},
+    {quote: "Men who think deeply appear to be comedians in their dealings with others because they always have to feign superficiality in order to be understood.", author: "Friedrich Nietzsche"},
+    {quote: "I was ashamed of myself when I realised life was a costume party; and I attended with my real face", author: "Franz Kafka"},
+    {quote: "Sometimes people don't want to hear the truth because they don't want their illusions destroyed", author: "Friedrich Nietzsche"}
+    
 ]
 
 const button = document.querySelector('.btn');
